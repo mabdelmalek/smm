@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry excluding="**/*.java" kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/org/twitter4j/twitter4j-core/2.2.5/twitter4j-core-2.2.5.jar" sourcepath="M2_REPO/org/twitter4j/twitter4j-core/2.2.5/twitter4j-core-2.2.5-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/twitter4j/twitter4j-async/2.2.5/twitter4j-async-2.2.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/twitter4j/twitter4j-stream/2.2.5/twitter4j-stream-2.2.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/twitter4j/twitter4j-media-support/2.2.5/twitter4j-media-support-2.2.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/3.8.2/junit-3.8.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
